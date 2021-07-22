@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/jackson-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/json-schema-validator-1.0.56.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/jackson-annotations-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/jar_files/jackson-databind-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/Changedia/rest-assured-4.3.3-dist/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
